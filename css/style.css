@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+
+#signupform, #loginform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* body{
+    background-color: black;
+} */
+
+#navbarSupportedContent{
+    position: absolute;
+    right: 19px;
+    top: 7px;
+};
+
